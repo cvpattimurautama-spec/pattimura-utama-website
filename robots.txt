@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.pattimurautama.com/sitemap.xml
+Sitemap: https://www.pattimurautama.com/tentang.html
+Sitemap: https://www.pattimurautama.com/kontak.html
+Sitemap: https://www.pattimurautama.com/pesan-order.html
+Sitemap: https://www.pattimurautama.com/layanan.html
